@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 4
 date: 2019-11-10
 img: gobattleleague.png
 alt: image-alt
