@@ -22,4 +22,4 @@
 
 - [**MA Zamora-Lagos,  et al.  2018 ** The complete and fully assembled genome sequence of Aeromonas salmonicida subsp. pectinolytica and its comparative analysis with other Aeromonas species: investigation of the mobilome in environmental and pathogenic strains](https://hal.archives-ouvertes.fr/hal-02066652/) 
 
-- [** ML Spletter, et al.  ** Systematic transcriptomics reveals a biphasic mode of sarcomere morphogenesis in flight muscles regulated by Spalt](https://www.biorxiv.org/content/10.1101/229534v1.abstract)
+- [**ML Spletter, et al.  ** Systematic transcriptomics reveals a biphasic mode of sarcomere morphogenesis in flight muscles regulated by Spalt](https://www.biorxiv.org/content/10.1101/229534v1.abstract)
