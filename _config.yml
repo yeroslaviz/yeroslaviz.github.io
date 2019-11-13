@@ -1,7 +1,7 @@
 # Site settings
-title: Julia Stewart Lowndes, PhD
-email: lowndes@nceas.ucsb.edu
-url: http://jules32.github.io/
+title: Assa Yeroslaviz, PhD
+email: yeroslaviz@biochem.mpg.de
+url: http://yeroslaviz.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 meta_author: LastName FirstName
 
@@ -31,16 +31,16 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/juliesquid
+    url: http://twitter.com/AssaYerosalviz
   - title: github
-    url: http://github.com/jules32
+    url: http://github.com/yeroslaviz
   - title: google
-    url: https://scholar.google.com/citations?user=qr9gICIAAAAJ&hl=en&authuser=1
+    url: https://scholar.google.com/citations?user=KzGEMogAAAAJ&hl=en
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: NCEAS
-  - line: Santa Barbara, California, USA
+  - line: Max-Planck-Institute for Biochemistry
+  - line: Martinsried, Germany
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
