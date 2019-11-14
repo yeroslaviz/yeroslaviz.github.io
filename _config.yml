@@ -23,7 +23,7 @@ color:
 
 # Footer settings
 footer:
-  name: Julia Stewart Lowndes, <a href="http://jules32.github.io" /a>
+  name: Julia Stewart Lowndes, <a href="http://jules32.github.io"> </a>
   copyright: Julia Stewart Lowndes, <a href="http://startbootstrap.com">Freelancer theme</a> 
   location: Location
   social: 
