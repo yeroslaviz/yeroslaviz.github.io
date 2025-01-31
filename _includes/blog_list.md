@@ -3,4 +3,6 @@ All materials are available online; workshops and tutorials can serve as self-pa
 <br>
 <br>
 
+[my first blog page](first_blog.html)
+
 <!---to be added?--->
