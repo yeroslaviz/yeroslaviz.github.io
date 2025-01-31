@@ -4,6 +4,6 @@ format: html
 editor: visual
 ---
 
-I thought long about doing it, I always had execuses why not to do it. Even though I know I should. It would be good for me, for my work, for my activities etc. 
+I thought long about doing it, I always had excuses why not to do it. Even though I know I should. It would be good for me, for my work, for my activities etc. 
 
 so here goes. This one is just a test of multiple things, can I do it, can I do it on github, what else is missing etc. 
