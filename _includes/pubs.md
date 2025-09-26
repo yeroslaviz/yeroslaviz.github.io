@@ -1,6 +1,16 @@
 [***my Google Scholar page***](https://scholar.google.com/citations?user=KzGEMogAAAAJ&hl=en)
 
-- [**S Klumpe, KA Senti, F Beck et al. 2024 ** In-cell structure and snapshots of copia retrotransposons in intact tissue by cryo-electron tomography](https://www.biorxiv.org/content/10.1101/2024.02.21.581285v1.full)
+
+- [** M Russier, A Fiore, A Bici et al. 2025 ** Differential cell survival outcomes in response to diverse amino acid stress](https://www.life-science-alliance.org/content/8/11/e202503324)
+
+
+- [** M Kang, AH Vu, AL Casper et al. 2025 ** Single-cell metabolome and RNA-seq multiplexing on single plant cells](https://www.biorxiv.org/content/10.1101/2025.05.20.655036v1.full)
+
+- [**S Klumpe, KA Senti, F Beck et al. 2025 ** In-cell structure and snapshots of copia retrotransposons in intact tissue by cryo-electron tomography](https://www.cell.com/cell/fulltext/S0092-8674(25)00159-X)
+
+- [**C Guyot, LA Van de Velde, L Kainacher et al. 2025** IL4i1-sourced oncometabolites promote neuroblastoma cell survival](https://doi.org/10.1101/2025.08.07.669062)
+
+- [**M Johnsen, T Kubacki, A Yeroslaviz et al. 2024** Correction: The integrated RNA landscape of renal preconditioning against ischemia-reperfusion injury](https://journals.lww.com/jasn/fulltext/2025/07000/correction__the_integrated_rna_landscape_of_renal.29.aspx)
 
 - [**Z Sun, FM Cernilogar, H Horvatic, A Yeroslaviz et al. 2023 ** β1 integrin signaling governs necroptosis via the chromatin-remodeling factor CHD4](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01334-7)
 
