@@ -1,12 +1,12 @@
 [***my Google Scholar page***](https://scholar.google.com/citations?user=KzGEMogAAAAJ&hl=en)
 
 
-- [** M Russier, A Fiore, A Bici et al. 2025 ** Differential cell survival outcomes in response to diverse amino acid stress](https://www.life-science-alliance.org/content/8/11/e202503324)
+- [**M Russier, A Fiore, A Bici et al. 2025** Differential cell survival outcomes in response to diverse amino acid stress](https://www.life-science-alliance.org/content/8/11/e202503324)
 
 
-- [** M Kang, AH Vu, AL Casper et al. 2025 ** Single-cell metabolome and RNA-seq multiplexing on single plant cells](https://www.biorxiv.org/content/10.1101/2025.05.20.655036v1.full)
+- [**M Kang, AH Vu, AL Casper et al. 2025** Single-cell metabolome and RNA-seq multiplexing on single plant cells](https://www.biorxiv.org/content/10.1101/2025.05.20.655036v1.full)
 
-- [**S Klumpe, KA Senti, F Beck et al. 2025 ** In-cell structure and snapshots of copia retrotransposons in intact tissue by cryo-electron tomography](https://www.cell.com/cell/fulltext/S0092-8674(25)00159-X)
+- [**S Klumpe, KA Senti, F Beck et al. 2025** In-cell structure and snapshots of copia retrotransposons in intact tissue by cryo-electron tomography](https://www.cell.com/cell/fulltext/S0092-8674(25)00159-X)
 
 - [**C Guyot, LA Van de Velde, L Kainacher et al. 2025** IL4i1-sourced oncometabolites promote neuroblastoma cell survival](https://doi.org/10.1101/2025.08.07.669062)
 
